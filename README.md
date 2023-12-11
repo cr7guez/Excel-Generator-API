@@ -40,4 +40,8 @@ Imagine managing a client database sourced from an external company's API. As th
 
 This tool is particularly valuable for businesses relying on external databases, ensuring that their client records are consistently accurate and in sync with the latest data.
 
-**Author:** César Rodríguez
+## Version Information
+
+- **Author:** César Rodríguez
+- **Date:** 06/10/2023
+- **Version:** 1.0.0
